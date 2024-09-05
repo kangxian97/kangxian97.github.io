@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University at Buffalo, SUNY, 2029 (expected)
+* Ph.D. in Computer Science, University at Buffalo, SUNY, 2029 (expected)
 * M.S. in Computer Science, Boston University, 2023
 * B.S. in Math and Computer Science, University of California, San Diego, 2019
 
@@ -48,11 +48,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -60,6 +55,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
