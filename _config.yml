@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kangxian Xie's Homepage"
+title                    : "Kangxian's Homepage"
 title_separator          : "-"
 name                     : &name "Kangxian"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpeg"
+  name             : "Kangxian Xie"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "1st-year Ph.D. student in Computer Science"
+  location         : "Buffalo, New York"
+  employer         : "University at Buffalo, SUNY"
   uri              : # URL
   email            : "none@example.org" 
 
