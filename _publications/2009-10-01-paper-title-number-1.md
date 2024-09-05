@@ -3,7 +3,7 @@ title: "S^3-TTA: Scale Style Selection for Test-Time Agumentation in Biomedical 
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper tackles the domain generalization task in biomedical image segmentation by performing test-time style, scale adaptation.'
 date: 2009-10-01
 venue: '2024 IEEE International Symposium on Biomedical Imaging (ISBI)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
