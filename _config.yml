@@ -28,7 +28,7 @@ author:
   location         : "Buffalo, New York"
   employer         : "University at Buffalo, SUNY"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kangxian@buffalo.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

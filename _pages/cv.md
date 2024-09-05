@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University at Buffalo, SUNY, 2029 (expected)
+* M.S. in Computer Science, Boston University, 2023
+* B.S. in Math and Computer Science, University of California, San Diego, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Teaching Assistant
+  * Teaching assistant for CSE 574: Introduction to Machine Learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec. 2022 - Mar. 2023: Research Assistant
+  * Boston College, EPFL
+  * Supervisor: Professor Donglai Wei, Dr. Jiancheng Yang, Dr. Siyu Huang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec. 2022 - Mar. 2023: Research Assistant
+  * Boston College, Harvard University
+  * Supervisor: Professor Donglai Wei, Dr. Siyu Huang
+
+* Mar. 2022 - Aug. 2022: Research Assistant
+  * Bio-Imaging & Informatics Lab @ Boston University
+  * Supervisor: Dr. Bang-Bon Koo
+
   
 Skills
 ======
