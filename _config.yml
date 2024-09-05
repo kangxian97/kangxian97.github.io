@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Kangxian's Homepage"
 title_separator          : "-"
 name                     : &name "Kangxian"
 description              : &description "personal description"
@@ -24,28 +24,28 @@ author:
   avatar           : "profile.jpeg"
   name             : "Kangxian Xie"
   pronouns         : # example: "she/her"  
-  bio              : "1st-year Ph.D. student in CS"
+  bio              : "1st-year Ph.D. student in Computer Science"
   location         : "Buffalo, New York"
   employer         : "University at Buffalo, SUNY"
   uri              : # URL
   email            : "kangxian@buffalo.edu" 
 
   # Academic websites
-  #arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ByD_81QAAAAJ&hl=en&oi=ao"
-  #impactstory      : 
-  #orcid            : "http://orcid.org/yourorcidurl"
-  #semantic         : # URL
-  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #researchgate     : # URL
+  impactstory      : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
 
   # Repositories and software development
-  #bitbucket        : # Username - Update with your username on the site
-  #codepen          : # Username
-  #dribbble         : # Username
-  github           : "https://github.com/kangxian97"
-  #kaggle           : # Username  
-  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "academicpages"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
 
