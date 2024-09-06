@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "SUNY, Buffalo, CSE Department"
-date: 2024-08
+date: 2024-08-01
 location: "Buffalo, New York"
 ---
 
