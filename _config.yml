@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kangxian's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kangxian"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Kangxian Xie"
   pronouns         : # example: "she/her"  
-  bio              : "1st-year Ph.D. student in Computer Science"
+  bio              : "1st-year Ph.D. student in CS"
   location         : "Buffalo, New York"
   employer         : "University at Buffalo, SUNY"
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ByD_81QAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
