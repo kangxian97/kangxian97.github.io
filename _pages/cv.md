@@ -22,15 +22,15 @@ Work experience
 
 * Dec. 2022 - Mar. 2023: Research Assistant
   * Boston College, EPFL
-  * Supervisor: Professor Donglai Wei, Dr. Jiancheng Yang, Dr. Siyu Huang
+  * Mentor: Professor Donglai Wei, Dr. Jiancheng Yang, Dr. Siyu Huang
 
 * Dec. 2022 - Mar. 2023: Research Assistant
   * Boston College, Harvard University
-  * Supervisor: Professor Donglai Wei, Dr. Siyu Huang
+  * Mentor: Professor Donglai Wei, Dr. Siyu Huang
 
 * Mar. 2022 - Aug. 2022: Research Assistant
   * Bio-Imaging & Informatics Lab @ Boston University
-  * Supervisor: Dr. Bang-Bon Koo
+  * Mentor: Dr. Bang-Bon Koo
 
 
 Publications
@@ -46,11 +46,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3

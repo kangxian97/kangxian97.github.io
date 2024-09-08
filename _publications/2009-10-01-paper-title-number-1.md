@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper tackles the domain generalization task in biomedical image segmentation by performing test-time style, scale adaptation.'
-date: 2009-10-01
-venue: '2024 IEEE International Symposium on Biomedical Imaging (ISBI)'
+date: 2024-05-30
+venue: 'IEEE International Symposium on Biomedical Imaging (ISBI)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10635833'
 citation: 'K. Xie, S. Huang, S. C. Ordonez, H. Pfister and D. Wei, "S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation," 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, 2024, pp. 1-5, doi: 10.1109/ISBI56570.2024.10635833.'
