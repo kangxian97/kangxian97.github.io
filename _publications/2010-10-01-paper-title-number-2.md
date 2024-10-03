@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper focuses on segmentation analysis of pulmonary structures.'
-date: 2023-10-01
-venue: 'Arxiv'
+date: 2024-10-02
+venue: 'Medical Image Analysis'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2309.17329'
 citation: #'Xie, Kangxian. (2023). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
