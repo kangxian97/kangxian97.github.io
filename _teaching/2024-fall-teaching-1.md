@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "CSE 574: Intro to Machine Learning"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1

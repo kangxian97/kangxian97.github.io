@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "CSE 573: Computer Vision and Image Processing"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-teaching-1
