@@ -11,10 +11,12 @@ Kangxian Xie is a 2nd-year PhD student in Computer Science at the State Universi
 
 News
 ======
+* 2025-12: 1 journal paper accpeted by Medical Image Analysis.
 * 2025-8: I am granted Ph.D. candidacy!
 * 2024-10: 1 journal paper accepted by Medical Image Analysis.
 * 2024-9: I joined UB as a Ph.D. student and a teaching assistant!
 * 2024-2: 1 paper accepted at ISBI 2024.
+
 
 
 
