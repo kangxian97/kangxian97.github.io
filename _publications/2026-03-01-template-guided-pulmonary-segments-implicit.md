@@ -2,7 +2,7 @@
 title: "Template-guided reconstruction of pulmonary segments with neural implicit functions"
 collection: publications
 codeurl: "https://github.com/HINTLab/ImPulSe"
-authors: "Kangxian Xie, Y. Zhu, K. Kuang, L. Zhang, H. B. Li, Mingchen Gao, Jiancheng Yang"
+authors: "Kangxian Xie, Yufei Zhu, Kaiming Kuang, Li Zhang, Hongwei Bran Li, Mingchen Gao, Jiancheng Yang"
 venue_short: "Medical Image Analysis · 2026"
 project_name: "ImPulSe"
 category: manuscripts

@@ -10,7 +10,7 @@ redirect_from:
 <section class="hero" aria-labelledby="hero-title">
   <div class="hero-copy">
     <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> MEDICAL AI · EMBODIED INTELLIGENCE</p>
-    <h1 id="hero-title">Kangxian Xie<span class="name-period">.</span></h1>
+    <h1 id="hero-title">Kangxian Xie</h1>
     <p class="hero-role">Third-year Ph.D. student in Computer Science</p>
     <p class="hero-affiliation">University at Buffalo, SUNY <span aria-hidden="true">/</span> Buffalo, NY</p>
     <p class="hero-intro">I study how AI can understand anatomy and work with clinicians. My next ambition is to bring that understanding into <em>surgical robots that can perceive, reason, and act.</em></p>

@@ -1,6 +1,7 @@
 ---
 title: "Efficient Anatomical Labeling of Pulmonary Tree Structures via Implicit Point-Graph Networks"
 collection: publications
+authors: "Kangxian Xie, Jiancheng Yang, Donglai Wei, Ziqiao Weng, Pascal Fua"
 venue_short: "Medical Image Analysis · 2024"
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2

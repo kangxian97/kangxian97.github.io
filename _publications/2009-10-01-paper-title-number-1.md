@@ -1,6 +1,7 @@
 ---
 title: "S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation"
 collection: publications
+authors: "Kangxian Xie, Siyu Huang, Sebastian Cajas Ordonez, Hanspeter Pfister, Donglai Wei"
 codeurl: "https://github.com/kangxian97/S3-TTA"
 venue_short: "ISBI 2024"
 category: conferences

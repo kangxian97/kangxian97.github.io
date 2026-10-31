@@ -169,10 +169,6 @@ h1,h2,h3 {
   line-height:1.08;
 }
 
-.name-period {
-  color:var(--accent);
-}
-
 .status-dot {
   display:inline-block;
   width:6px;

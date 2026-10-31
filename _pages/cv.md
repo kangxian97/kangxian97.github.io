@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<header class="page-heading"><p class="eyebrow">BACKGROUND / EXPERIENCE</p><h1>Curriculum vitae.</h1><p>Third-year Ph.D. student in Computer Science · University at Buffalo, SUNY</p></header>
+<header class="page-heading"><p class="eyebrow">BACKGROUND / EXPERIENCE</p><h1>Curriculum vitae.</h1><p>Third-year Ph.D. student in Computer Science · University at Buffalo, SUNY</p><div class="hero-links"><a class="button button-dark" href="{{ '/files/Resume_Kangxian_Xie.pdf' | relative_url }}" download="Resume_Kangxian_Xie.pdf" type="application/pdf">Download resume (PDF) <span aria-hidden="true">↓</span></a></div></header>
 
 <div class="cv-content" markdown="1">
 
