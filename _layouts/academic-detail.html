@@ -1,0 +1,9 @@
+---
+layout: academic
+---
+<article class="detail-page">
+  <a class="text-link back-link" href="{% if page.collection == 'teaching' %}{{ '/teaching/' | relative_url }}{% else %}{{ '/publications/' | relative_url }}{% endif %}">← {% if page.collection == 'teaching' %}Teaching{% else %}All publications{% endif %}</a>
+  <header class="page-heading"><p class="eyebrow">{{ page.venue_short | default: page.venue }}{% unless page.venue_short %} / {{ page.date | date: '%Y' }}{% endunless %}</p><h1>{{ page.title }}</h1>{% if page.authors %}<p class="detail-authors">{{ page.authors }}</p>{% endif %}<div class="paper-links">{% if page.paperurl %}<a href="{{ page.paperurl }}">Paper ↗</a>{% endif %}{% if page.codeurl %}<a href="{{ page.codeurl }}">Code ↗</a>{% endif %}{% if page.dataseturl %}<a href="{{ page.dataseturl }}">Dataset ↗</a>{% endif %}</div></header>
+  {% if page.project_name == 'CoWTalk' %}<figure class="detail-figure"><img src="{{ '/images/research/cowtalk-workflow.png' | relative_url }}" alt="Clinician-guided, iterative 3D segmentation refinement workflow from the CoWTalk paper." width="1080" height="360"><figcaption>CoWTalk: iterative refinement of 3D anatomical shapes using clinicians’ verbal instructions. Figure 1 from the paper.</figcaption></figure>{% endif %}
+  <div class="prose">{{ content }}{% if page.citation %}<h2>Citation</h2><p class="citation-text">{{ page.citation | escape }}</p>{% endif %}</div>
+</article>

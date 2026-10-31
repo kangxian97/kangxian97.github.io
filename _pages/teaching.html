@@ -1,12 +1,10 @@
 ---
-layout: archive
+layout: academic
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<header class="page-heading"><p class="eyebrow">UNIVERSITY AT BUFFALO</p><h1>Sharing what I learn.</h1><p>Teaching assistant experience in computer science.</p></header>
+{% assign courses = site.teaching | sort: 'date' | reverse %}
+{% for course in courses %}
+<article class="course-entry"><div class="publication-year">{{ course.date | date: '%Y' }}</div><div><p class="eyebrow">TEACHING ASSISTANT · {{ course.date | date: '%B %Y' }}</p><h2><a href="{{ course.url | relative_url }}">{{ course.title }}</a></h2><p>{{ course.type }} · {{ course.venue }}</p></div></article>
 {% endfor %}

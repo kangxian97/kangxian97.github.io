@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Kangxian Xie"
 title_separator          : "-"
-name                     : &name "Kangxian"
-description              : &description "personal description"
+name                     : &name "Kangxian Xie"
+description              : &description "Kangxian Xie, third-year Computer Science Ph.D. student at the University at Buffalo. Medical AI, 3D anatomy, and a research aspiration in surgical robotics and embodied intelligence."
 url                      : https://kangxian97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kangxian97/kangxian97.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Kangxian Xie"
   pronouns         : # example: "she/her"  
-  bio              : "1st-year Ph.D. student in CS"
+  bio              : "3rd-year Ph.D. student in Computer Science"
   location         : "Buffalo, New York"
   employer         : "University at Buffalo, SUNY"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "kangxian97"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -174,6 +174,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - local
   - node_modules
   - package.json*
   - Rakefile
@@ -248,7 +249,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: academic-detail
       author_profile: true
       share: true
       comments: true
@@ -257,7 +258,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: academic-detail
       author_profile: true
       share: true
       comments: true
@@ -290,7 +291,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

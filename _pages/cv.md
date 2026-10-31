@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: academic
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,16 +7,23 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<header class="page-heading"><p class="eyebrow">BACKGROUND / EXPERIENCE</p><h1>Curriculum vitae.</h1><p>Third-year Ph.D. student in Computer Science · University at Buffalo, SUNY</p></header>
 
-Education
-======
+<div class="cv-content" markdown="1">
+
+## Research interests
+Medical AI, 3D anatomical modeling, and language-guided interaction. My long-term research aspiration is surgical robotics: embodied intelligence for autonomous manipulation and collaboration with surgeons.
+
+## Ph.D. status
+* Third-year doctoral student, advised by Prof. Mingchen Gao
+* Advanced to Ph.D. candidacy in August 2025
+
+## Education
 * Ph.D. in Computer Science, University at Buffalo, SUNY, 2029 (expected)
 * M.S. in Computer Science, Boston University, 2023
 * B.S. in Math and Computer Science, University of California, San Diego, 2019
 
-Work experience
-======
+## Work experience
 * Fall 2024: Teaching Assistant
   * Teaching assistant for CSE 574: Introduction to Machine Learning
 
@@ -33,16 +40,12 @@ Work experience
   * Mentor: Dr. Bang-Bon Koo
 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Publications
+{% assign papers = site.publications | sort: 'date' | reverse %}
+{% for paper in papers %}{% include publication-entry.html paper=paper %}{% endfor %}
   
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+## Teaching
+<ul>{% for course in site.teaching reversed %}<li><a href="{{ course.url | relative_url }}">{{ course.title }}</a> · {{ course.date | date: '%Y' }}</li>{% endfor %}</ul>
+
+</div>

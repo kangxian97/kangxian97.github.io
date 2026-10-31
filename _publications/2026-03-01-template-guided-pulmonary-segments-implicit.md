@@ -1,10 +1,14 @@
 ---
 title: "Template-guided reconstruction of pulmonary segments with neural implicit functions"
 collection: publications
+codeurl: "https://github.com/HINTLab/ImPulSe"
+authors: "Kangxian Xie, Y. Zhu, K. Kuang, L. Zhang, H. B. Li, Mingchen Gao, Jiancheng Yang"
+venue_short: "Medical Image Analysis · 2026"
+project_name: "ImPulSe"
 category: manuscripts
 permalink: /publication/2026-template-guided-pulmonary-segments-implicit
 link: 'https://www.sciencedirect.com/science/article/pii/S1361841525004621'
-excerpt: 'Neural implicit functions deform a learnable template for anatomy-aware 3D reconstruction of pulmonary segments, with applications to segmentectomy planning; includes the Lung3D shape benchmark and clinically oriented evaluation metrics.'
+excerpt: "Template-guided neural implicit reconstruction of pulmonary segments for anatomy-aware 3D modeling and surgical planning."
 date: 2026-03-01
 venue: 'Medical Image Analysis'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1361841525004621'

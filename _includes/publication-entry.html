@@ -1,0 +1,18 @@
+{% assign paper = include.paper %}
+{% assign heading_tag = include.heading_tag | default: 'h3' %}
+<article class="publication-entry" id="{{ paper.slug }}">
+  <div class="publication-year">{{ paper.date | date: '%Y' }}</div>
+  <div class="publication-body">
+    <div class="publication-venue">{{ paper.venue_short | default: paper.venue }}{% if paper.project_name %}<span class="project-label">{{ paper.project_name }}</span>{% endif %}</div>
+    <{{ heading_tag }}><a href="{{ paper.url | relative_url }}">{{ paper.title }}</a></{{ heading_tag }}>
+    {% if paper.authors %}<p class="publication-authors">{{ paper.authors | replace: 'Kangxian Xie', '<strong>Kangxian Xie</strong>' }}</p>{% endif %}
+    <div class="publication-summary">{{ paper.excerpt | markdownify }}</div>
+    <div class="paper-links">
+      {% if paper.paperurl %}<a href="{{ paper.paperurl }}">Paper <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if paper.codeurl %}<a href="{{ paper.codeurl }}">Code <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if paper.dataseturl %}<a href="{{ paper.dataseturl }}">Dataset <span aria-hidden="true">↗</span></a>{% endif %}
+      <a href="{{ paper.url | relative_url }}">Details <span aria-hidden="true">→</span></a>
+    </div>
+    {% if paper.citation %}<details class="citation"><summary>Citation</summary><p>{{ paper.citation | escape }}</p></details>{% endif %}
+  </div>
+</article>
